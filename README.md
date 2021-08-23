@@ -1,2 +1,2 @@
 # Image-Caption-Generator
-A deep learning model to describe images and generate captions using computer vision and machine translation. This project aims to detect different objects found in an image, recognize the relationships between those objects and generate captions.
+A deep learning model to describe images and generate captions using computer vision and machine translation. This project aims to detect different objects found in an image, recognize the relationships between those objects and generate captions. The dataset used is Flickr8k dataset, and a ML technique called Transfer Learning will be implemented with the help of the CNN model, to demonstrate the proposed experiment.
